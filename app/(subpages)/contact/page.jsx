@@ -27,7 +27,7 @@ const ContactPage = () => {
             project, or just explore ideas, I'm here to help. With a passion for
             crafting digital experiences that are both out of this world and
             grounded in quality, I'm ready to take on the next big challenge.
-            Let’s connect and see how we can turn your vision into reality, no
+            Lets connect and see how we can turn your vision into reality, no
             matter how far or wide the journey may take us.
           </p>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-2">

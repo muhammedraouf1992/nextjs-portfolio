@@ -30,19 +30,19 @@ const AboutPage = () => {
               </h2>
               <div className="text-white space-y-3">
                 <p>
-                  I’m a web developer with 2 years of agency experience, skilled
+                  Im a web developer with 2 years of agency experience, skilled
                   in WordPress ,HTML, CSS, JavaScript and modern frameworks like
                   Nextjs
                 </p>
                 <p>
-                  Throughout my journey, I’ve built a variety of projects, from
+                  Throughout my journey, Ive built a variety of projects, from
                   e-commerce websites to dynamic landing pages, using platforms
                   like WordPress, Salla, Zid, OpenCart, and cutting-edge tools
                   like Nextjs, Prisma and TailwindCSS.
                 </p>
                 <p>
                   I thrive on exploring new technologies and pushing the
-                  boundaries of what’s possible in web development. Just like
+                  boundaries of whats possible in web development. Just like
                   space exploration, I believe the digital world is full of
                   uncharted territories waiting to be discovered. My mission is
                   to create innovative, user-friendly websites that drive
