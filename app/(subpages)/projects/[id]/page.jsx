@@ -4,6 +4,15 @@ import bg from "@/public/projectId-background.jpeg";
 import Image from "next/image";
 import { projectsData } from "@/data";
 import Link from "next/link";
+
+export function generateStaticParams() {
+  const allobjects = projectsData.map((project) => {
+    return { id: String(project.id) };
+  });
+
+  return allobjects;
+}
+
 const SingleProject = ({ params }) => {
   const project = projectsData.find((project) => project.id == params.id);
 

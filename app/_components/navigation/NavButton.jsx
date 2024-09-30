@@ -2,7 +2,6 @@ import Link from "next/link";
 import React from "react";
 import {
   GitBranch,
-  GitBranchPlus,
   Home,
   Linkedin,
   NotebookText,
@@ -49,7 +48,7 @@ const NavButton = ({ x, y, label, link, icon, newTab }) => {
             <Link
               href={link}
               target={newTab ? "_blank" : "_self"}
-              className="text-foreground rounded-full flex items-center justify-center"
+              className="text-white rounded-full flex items-center justify-center"
               aria-label={label}
             >
               <span className="relative w-14 h-14 p-4 rounded-full border border-solid border-red-600/50 shadow-glass-inset cursor-pointer hover:shadow-glass-sm animate-spin-reverse hover:text-accent group-hover:pause ">
