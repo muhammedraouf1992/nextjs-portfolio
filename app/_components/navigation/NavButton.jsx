@@ -3,6 +3,7 @@ import React from "react";
 import {
   GitBranch,
   Home,
+  Instagram,
   Linkedin,
   NotebookText,
   Palette,
@@ -26,8 +27,7 @@ const getIcon = (icon) => {
       return <GitBranch className="w-full h-auto" strokeWidth={1.5} />;
     case "linkedin":
       return <Linkedin className="w-full h-auto" strokeWidth={1.5} />;
-    case "twitter":
-      return <X className="w-full h-auto" strokeWidth={1.5} />;
+
     case "resume":
       return <NotebookText className="w-full h-auto" strokeWidth={1.5} />;
 
