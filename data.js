@@ -81,7 +81,7 @@ export const projectsData = [
     `,
     date: "2022-10-01",
     demoLink: "https://mowafyhospital.com/",
-    image: "/seacatch.png",
+    image: "/mowafyhospital.png",
     technologies: ["wordpress", "javascript", "html", "css"],
   },
 ];
